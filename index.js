@@ -211,7 +211,7 @@ var settings = {
       }
       context.closePath();
       // create the fill
-      context.fillStyle = "red";
+      context.fillStyle = "rgb(141, 38, 141)";
       context.fill();
       // create the image
       var image = new Image();
